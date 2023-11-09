@@ -23,3 +23,4 @@ function sayHi(userName = "random person") {
 sayHi("James");
 sayHi("Mike");
 sayHi();
+sayHi();
